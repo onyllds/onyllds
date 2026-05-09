@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onyllds/onyllds/refs/heads/main/ChatGPT%20Image%209%20de%20mai.%20de%202026%2C%2002_25_38.png" width="100%" />
+</p>
 # Oii, eu sou a Heloisa 👋💛
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
