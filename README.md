@@ -7,12 +7,14 @@
 
 ---
 
-## 💻 Tecnologias e estudos
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square\&logo=python\&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square\&logo=googlesheets\&logoColor=white)
 ![ADS](https://img.shields.io/badge/ADS-ff69b4?style=flat-square)
+
+</div>
 
 ---
 
@@ -35,6 +37,12 @@
 
 ---
 
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyllds\&layout=compact\&theme=tokyonight)
+
+</div>
+
+---
 
 ✨ Em constante aprendizado.
